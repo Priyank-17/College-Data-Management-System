@@ -1,0 +1,10 @@
+  .text_center{
+      text-align: center;
+  }
+  .container{
+      margin-bottom: 40px;
+      margin-top: 40px;
+  }
+  .cards{
+      padding: 1rem;
+  }

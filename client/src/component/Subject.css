@@ -1,0 +1,14 @@
+.cards{
+    padding: 0;
+}
+h1{
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+.cards__item__pic-wrap::after{
+    font-size:1rem;
+    
+}
+.cards__item__info{
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.grad1 {
+  
+  background-image: linear-gradient(to bottom , rgba(10,4,60,25%), rgba(10,4,60,1));
+}
+.btn_width{
+  width:180px;
+  margin:auto;
+}
+.font_color{
+  color:white;
+}
+.transparent_bg{
+  color:rgba(94, 56, 56, 0)
+}
+.btn{
+  height:3.5rem;
+}

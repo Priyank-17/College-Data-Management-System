@@ -1,0 +1,138 @@
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+    /* font-family: 'Ubuntu', sans-serif; */
+}
+h3{
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    padding: 0 0 4.5rem 0;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 2rem;
+    font-weight: bold;
+}
+.navbar-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.download_btn{
+    margin: 5% 3% 5% 0;
+}
+
+.rotate-img{
+    width: 60%;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 30%;
+}
+.center{
+    text-align: center;
+    padding: 3%;
+}
+.size_icon{
+  color: #ef8172;
+  margin: 10px;
+}
+.size_icon:hover{
+    color: #ff4c68;
+}
+.light_font{
+    color: #8f8f8f;
+    padding: 0 5%;
+}
+#feature{
+    padding:7% 14%;
+    background-color: white;
+    position: relative;
+    
+}
+#testimonials{
+    
+    background-color: #ef8172;
+    text-align: center;
+    color:white;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+    font-family: 'Montserra-Bold', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.dog_img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding: 3%;
+}
+.press_logo{
+    width: 15%;
+    margin: 20px;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricicng-col{
+    padding: 3% 2%;
+}
+@media (max-width:1028px){
+    .rotate-img{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+}
+.footer_text{
+    color: white;
+    padding: 7% 15% 2% 15%;
+    font-family: 'Montserra-Bold', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+.ft_btn{
+    margin: 3% 3% 5% 0;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: white;
+}
+.ft_icon{
+    padding: 10px;
+}
+.ft_icon_all{
+    padding: 20px;
+}

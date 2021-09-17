@@ -1,0 +1,18 @@
+.background{
+    padding: 40px;
+    border-radius: 30px;
+    background-color:#ABD6DFFF;
+    margin: 40px;
+}
+.spacing{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.abc{
+    border: 2px dotted black; 
+}
